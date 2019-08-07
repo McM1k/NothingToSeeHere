@@ -1,3 +1,0 @@
-#!/bin/bash
-
-screen -S minecraft java -Xms1024M -Xmx2000M -jar /opt/minecraft/forge-1.12.2-14.23.5.2768-universal.jar nogui
