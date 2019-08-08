@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-08-08 19:05:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2019-08-03 00:44:34 +0200"
@@ -614,6 +620,7 @@
       "minecraft:spider": "2019-08-02 21:28:07 +0200",
       "minecraft:creeper": "2019-08-02 22:03:28 +0200",
       "minecraft:slime": "2019-08-03 20:39:50 +0200",
+      "minecraft:phantom": "2019-08-08 18:44:29 +0200",
       "minecraft:witch": "2019-08-03 01:55:43 +0200",
       "minecraft:wither_skeleton": "2019-08-04 17:10:49 +0200",
       "minecraft:enderman": "2019-08-02 20:33:18 +0200",
@@ -632,6 +639,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2019-08-04 17:25:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-08-08 21:37:33 +0200"
     },
     "done": true
   },
@@ -761,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-08-08 19:14:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-03 15:14:14 +0200"
@@ -848,6 +867,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-08-02 23:54:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-08-08 19:15:04 +0200"
     },
     "done": true
   },
@@ -1293,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2019-08-08 19:14:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-02 23:41:56 +0200"
@@ -1308,6 +1339,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-08-03 17:40:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-08-08 19:14:12 +0200"
     },
     "done": true
   },
@@ -1662,6 +1699,7 @@
       "pumpkin_pie": "2019-08-05 00:43:35 +0200",
       "bread": "2019-08-02 20:31:00 +0200",
       "rotten_flesh": "2019-08-02 23:22:47 +0200",
+      "melon_slice": "2019-08-08 16:04:11 +0200",
       "beetroot": "2019-08-04 21:56:19 +0200",
       "carrot": "2019-08-03 14:24:41 +0200"
     },
@@ -1670,6 +1708,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-02 20:16:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-08-08 19:14:12 +0200"
     },
     "done": true
   },
@@ -1997,6 +2041,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2019-08-02 20:16:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-08-08 19:15:04 +0200"
     },
     "done": true
   },
@@ -2378,6 +2428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2019-08-08 20:01:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-08-03 00:21:10 +0200"
@@ -2423,6 +2479,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-08-02 20:21:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-08-08 19:15:04 +0200"
     },
     "done": true
   },
